@@ -12,7 +12,7 @@ The navigation stack takes in information from odometry, sensor streams, and a g
 
 The performance of the two programs is compared based on the time taken to achieve the goal in each scenario. This provides valuable insights into the efficiency and effectiveness of different control strategies.
 
-Overall, this project showcases the application of behavioral robotics in developing autonomous robots capable of complex behaviors and tasks. It demonstrates the potential of such robots in various applications, ranging from search and rescue operations to environmental monitoring and space exploration. 😊
+Overall, this project showcases the application of behavioral robotics in developing autonomous robots capable of complex behaviors and tasks. It demonstrates the potential of such robots in various applications, ranging from search and rescue operations to environmental monitoring and space exploration. 
 
 ## Packages
 
